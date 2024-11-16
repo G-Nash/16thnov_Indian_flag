@@ -6,8 +6,8 @@ body{
 #heading{
     text-align: center;
     color: black;
-    border-bottom: solid white;
-    border-top: solid white;
+    border-bottom: solid aqua;
+    border-top: solid aqua;
     margin-bottom: 75px;
     background-color: aqua;
 }

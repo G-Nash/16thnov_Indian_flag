@@ -1,0 +1,113 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#heading{
+    text-align: center;
+    color: black;
+    border-bottom: solid white;
+    border-top: solid white;
+    margin-bottom: 75px;
+    background-color: aqua;
+}
+
+#rectangle1{
+    border: solid white;
+    border-bottom: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 50px;
+    background-color: orange;
+}
+
+#rectangle2{
+    border: solid white;
+    border-bottom: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 50px;
+    background-color: white;
+}
+
+#rectangle3{
+    border: solid white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 50px;
+    background-color: green;
+}
+
+#circle{
+    border: solid white;
+    height: 47px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 500px;
+    background-color: blue;
+}
+
+#flag{
+    margin-left: auto;
+    margin-right: auto;
+    /* border: solid; */
+    /* align-items: center;
+    align-self: center;
+    align-content: center; */
+}
+
+#pole{
+    border: solid white;
+    width: 0px;
+    height: 500px;
+    margin-right: auto;
+    margin-top: -107px;
+}
+
+#step1{
+    border: solid white;
+    height: 50px;
+    width: 250px;
+    margin-right: auto;
+    margin-left: -120px;
+    margin-top: -53px;
+    margin-bottom: 25px;
+    background-color: gray;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+/* #step2{
+    border: solid white;
+    height: 25px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#step3{
+    border: solid white;
+    height: 25px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+} */
+
+#line1{
+    border: solid 1px black;
+    margin-top: 23px;
+}
+
+#line2{
+    border: solid 1px black;
+    height: 45px;
+    width: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -24px;
+}
